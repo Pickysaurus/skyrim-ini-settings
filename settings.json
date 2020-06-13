@@ -3,7 +3,7 @@
   "gameName": "Skyrim",
   "iniPaths": [
     ["{mygames}", "Skyrim", "Skyrim.ini"],
-    ["{mygames}", "Skyrim", "SkyrimPrefs.ini"]
+    ["{mygames}", "Skyrim", "SkyrimPrefs.ini"],
     ["{mygames}", "Skyrim", "SkyrimCustom.ini"]
   ],
   "presetPaths": [
